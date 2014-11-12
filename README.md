@@ -1,4 +1,4 @@
-Hack Reactor Admissions Document
+Hack Reactor "Coding Terms"
 ================================
 ###The difference between writing a function and invoking a function
 
