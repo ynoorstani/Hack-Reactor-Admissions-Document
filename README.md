@@ -34,7 +34,7 @@ calculateAndPrint(multiply 3, 5);
 ~~~
 
 
-According to Eloquent JavaScript, “Because functions are first-class objects, we can pass a function as an argument in another function and later execute that passed-in function or even return it to be executed later. This is the essence of using callback functions in JavaScript.” 
+According to JavaScriptissexy.com, “Because functions are first-class objects, we can pass a function as an argument in another function and later execute that passed-in function or even return it to be executed later. This is the essence of using callback functions in JavaScript.” 
 
 In further reading “A callback function is a function that is passed as an argument of another function and it is invoked after some kind of event. The name “call back” can be attributed to the nature of the function, since once its parent function completes, the function that got passed as an argument gets called. In other words, the parent function “calls-back and executes the function passed as an argument.”
 As you can already imagine, callbacks are extremely useful. They allow for you to call a function within a function.
