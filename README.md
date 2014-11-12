@@ -7,7 +7,7 @@ Functions are reusable units of code. You can write a function once and invoke i
 
 Functions break a program into logical chunks and implement a piece of functionality. First we start off with declaring a function with the keyword function.
 The implementation of a function is in a block, anything inside this block will be executed when the function is called.
-Invoking functions is like calling the function, when you invoke a function you ask the function to perform specifics tasks that the function is designed to carry out.  
+Invoking functions is like calling the function, when you invoke a function you ask the function to perform specific tasks that the function is designed to carry out.  
 
 ###Passing functions as arguments to other functions
 
