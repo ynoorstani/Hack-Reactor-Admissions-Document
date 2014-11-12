@@ -48,7 +48,7 @@ Iteration is when you go through each element of a collection of objects.
 You can use the for loop structure to iterate over an array. 
 In terms of iterating an array object you would iterate through 
 ~~~
-for (var property in obj)
+for (var property in obj) {
 			// Do something 
 }
 ~~~
