@@ -1,4 +1,4 @@
-Hack-Reactor-Admissions-Document
+Hack Reactor Admissions Document
 ================================
 ###The difference between writing a function and invoking a function
 
@@ -17,7 +17,7 @@ For example:
 ~~~
 // Returns a sum of parameters
 var add = function (a, b) { 
-	Return a+b;
+	return a+b;
 }
 
 var multiply = function (a,b) {
