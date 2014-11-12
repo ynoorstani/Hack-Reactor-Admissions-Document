@@ -29,7 +29,7 @@ var calculateAndPrint = function (perform, a, b) {
 }
 
 calculateAndPrint(add, 3, 5);
-calculateAndPrint(multiply 3, 5);
+calculateAndPrint(multiply, 3, 5);
 
 ~~~
 
