@@ -105,7 +105,7 @@ functionparsefileName(fileName) {
     file;
 
 // Check whether the extension is a comma separated value format
-  if (fileExention === '.csv') {
+  if (fileExtension === '.csv') {
     parseCSV(file);
   } else if (fileExtension === '.xml') {
     parseXML(file);
