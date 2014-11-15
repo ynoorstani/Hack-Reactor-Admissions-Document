@@ -90,7 +90,7 @@ var fileExention = '',
     file;
 
 // Check whether the extension is a comma separated value format
-if (fileExention === '.csv') {
+if (fileExtension === '.csv') {
     parseCSV(file);
 } else if (fileExtension === '.xml') {
     parseXML(file);
@@ -101,7 +101,7 @@ if (fileExention === '.csv') {
 
 functionparsefileName(fileName) {
 
-   var fileExention = fileName.match(//),
+   var fileExtension = fileName.match(//),
     file;
 
 // Check whether the extension is a comma separated value format
