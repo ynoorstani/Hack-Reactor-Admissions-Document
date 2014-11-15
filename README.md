@@ -86,7 +86,7 @@ Reading in a file there are separate file extensions (comma separate and tab sep
 Ex. 
 ~~~
 var filename = “…”
-var fileExention = '',
+var fileExtension = '',
     file;
 
 // Check whether the extension is a comma separated value format
