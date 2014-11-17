@@ -17,7 +17,7 @@ For example:
 ~~~
 // Returns a sum of parameters
 var add = function (a, b) { 
-	return a+b;
+	return a + b;
 }
 
 var multiply = function (a,b) {
