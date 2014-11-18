@@ -40,7 +40,7 @@ In further reading “A callback function is a function that is passed as an arg
 As you can already imagine, callbacks are extremely useful. They allow for you to call a function within a function.
 
 
-### Iterating through an array or an object using a for 
+### Iterating through an array or an object using a for or while loop
 Iteration is when you go through each element of a collection of objects. 
 
 
